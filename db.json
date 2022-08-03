@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Learn HTML",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "Learn JavaScript",
+      "author": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "Learn MERN",
+      "author": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "Learn CSS",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
